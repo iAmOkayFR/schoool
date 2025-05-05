@@ -233,3 +233,21 @@ html, header, body{
     padding:0 210 0 22;
     color:rgb(0, 0, 0);
 }
+
+.sec3{
+    background-color: rgba(0,0,0,0.4);
+    height:34em;
+
+}
+
+.textboldwhite{
+    padding-top: 40px;
+    color: aliceblue;
+}
+
+
+.flexx{
+    display: flex;
+    justify-content: space-around;
+
+}
